@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Sheena and I'm learning a bit about GitHub and how to access repositories. Yoroshiku onegaishimasu!
+Hi! I'm Sheena: A Junior Developer, confectioner, lover of second chances - I'm someone who always enjoys laughing and learning. If I'm not naturally great at something, I will work tirelessly until I reach my goal. *Yoroshiku Onegaishimasu!*
