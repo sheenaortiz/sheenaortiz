@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Sheena: A junior developer, confectioner, lover of second chances - I'm someone who always enjoys laughing and learning. When I run into something I'm not naturally adept with, I will study it until I feel that magical 'click' of understanding! *Yoroshiku Onegaishimasu!*
+Hi! I'm Sheena: A junior developer, confectioner, lover of second chances - I'm someone who always enjoys laughing and learning. When I run into something I'm not naturally adept with, I will study it until I get that satisfying magical 'click' of understanding! *Yoroshiku Onegaishimasu!*
